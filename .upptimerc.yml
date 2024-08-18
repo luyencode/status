@@ -34,6 +34,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Judges' Status
+      href: https://luyencode.net/status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
