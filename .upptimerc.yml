@@ -6,6 +6,7 @@ sites:
   - name: Luyện Code
     url: https://luyencode.net
     maxResponseTime: 5000
+    delay: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,7 +14,7 @@ status-website:
   cname: status.luyencode.net
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/luyencode/lcoj-site/master/resources/icons/logo.png
-  name: ""
+  name: "Status"
   introTitle: ""
   introMessage: ""
   navbar:
