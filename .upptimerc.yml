@@ -13,9 +13,9 @@ status-website:
   cname: status.luyencode.net
   # baseUrl: /
   logoUrl: https://raw.githubusercontent.com/luyencode/lcoj-site/master/resources/icons/logo.png
-  name: 
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: LCOJ Status Monitor
+  name: ""
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
