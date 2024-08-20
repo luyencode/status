@@ -22,7 +22,7 @@
     "url": "https://blog.luyencode.net",
     "icon": "https://icons.duckduckgo.com/ip3/blog.luyencode.net.ico",
     "slug": "blog-luyencode-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 279,
     "timeMonth": 279,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-20": 0
+    }
   },
   {
     "name": "behitek.com",
