@@ -9,12 +9,6 @@ sites:
     delay: 5000
     expectedStatusCodes:
       - 200
-  - name: "blog.luyencode.net"
-    url: https://blog.luyencode.net
-    maxResponseTime: 5000
-    delay: 5000
-    expectedStatusCodes:
-      - 200
   - name: "behitek.com"
     url: https://behitek.com
     maxResponseTime: 5000
