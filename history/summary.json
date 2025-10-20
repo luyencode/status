@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/luyencode.net.ico",
     "slug": "luyencode-net",
     "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "98.58%",
+    "uptime": "98.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.72%",
     "time": 1214,
-    "timeDay": 5672,
-    "timeWeek": 3202,
-    "timeMonth": 2040,
-    "timeYear": 1214,
+    "timeDay": 1172,
+    "timeWeek": 1172,
+    "timeMonth": 1172,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2025-08-16": 57,
       "2025-08-08": 19,
@@ -35,11 +35,7 @@
       "2024-12-13": 452,
       "2024-12-12": 604,
       "2024-12-06": 158,
-      "2024-10-25": 23,
-      "2024-09-22": 16,
-      "2024-08-30": 28,
-      "2024-08-27": 135,
-      "2024-08-26": 570
+      "2024-10-25": 23
     }
   },
   {
@@ -53,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 180,
-    "timeWeek": 186,
-    "timeMonth": 214,
-    "timeYear": 183,
+    "time": 182,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   }
 ]
