@@ -47,17 +47,19 @@
     "url": "https://behitek.com",
     "icon": "https://icons.duckduckgo.com/ip3/behitek.com.ico",
     "slug": "behitek-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 211,
-    "timeWeek": 284,
+    "timeDay": 220,
+    "timeWeek": 277,
     "timeMonth": 216,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
